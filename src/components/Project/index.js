@@ -3,12 +3,7 @@ import './index.css'
 import { Button } from "react-bootstrap";
 import { Container } from "react-bootstrap";
 import { Carousel } from "react-bootstrap";
-import "../../assets/images/audiofreq.JPG"
-import "../../assets/images/pwgen.JPG"
-import "../../assets/images/readmegen.JPG"
-import "../../assets/images/refactoringhw.JPG"
-import "../../assets/images/teamprofgen.JPG"
-import "../../assets/images/tinderfofood.JPG"
+
 
 function Project() {
   return (
