@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../components/Header";
-import Project from "../components/Project"
+
 import Footer from "../components/Footer"
 import { Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
@@ -18,9 +18,7 @@ return (
       </Row>
       <hr></hr>
       <Row>
-        <h4 id="projects">Projects</h4>
-        
-          <Project />
+  
        
       </Row>
       <hr></hr>
